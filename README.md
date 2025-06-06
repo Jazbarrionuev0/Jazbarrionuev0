@@ -1,7 +1,7 @@
 ## Hi there 👋
-I'm a passionate software developer with a love for problem-solving and continuous learning. My expertise spans web development, machine learning, and deep learning, with a focus on building intelligent, user-friendly solutions. Whether I'm working on full-stack applications or exploring the frontiers of AI, I'm always looking to push the boundaries of what's possible.
+I'm a software developer with a love for data and artificial intelligence. My expertise spans web development, data analysis and deep learning, with a focus on building intelligent, user-friendly solutions. 
 
-📁 Explore my [portfolio](https://www.jazminbarrionuevo.tech/) to see a diverse range of projects that showcase my skills in creating robust, user-friendly solutions.
+📁 Explore my [portfolio](https://www.jazminbarrionuevo.com/) to see a diverse range of projects that showcase my skills in creating robust, user-friendly solutions.
 
 🔭 Check out my pinned projects to see some of the cool things I've been working on, including a sign language detection system, a handwritten digit recognition model, and more!
 
